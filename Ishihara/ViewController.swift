@@ -17,6 +17,7 @@ class ViewController: UIViewController {
     //Explicit
     var strAnswer:String = ""
     
+ 
     
 
     override func viewDidLoad() {
