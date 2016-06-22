@@ -47,6 +47,8 @@ class ViewController: UIViewController {
         }
         print("intIndex ===> \(intIndex)" )
         
+        ishiharaImageView.image = UIImage(named: arrayImage[intIndex])
+        
         
         
     }   // answerButton
